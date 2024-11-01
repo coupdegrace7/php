@@ -4,7 +4,7 @@ namespace LibraryApp;
 
 class book
 {
-     private string $title;
+    private string $title;
     private string $author;
     private int $publishedYear;
     private string $genre;
