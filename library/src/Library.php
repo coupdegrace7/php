@@ -2,7 +2,7 @@
 
 namespace LibraryApp;
 
-class library
+class Library
 {
     private array $books = [];
 
