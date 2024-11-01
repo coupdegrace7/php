@@ -2,7 +2,7 @@
 
 namespace LibraryApp;
 
-class book
+class Book
 {
     private string $title;
     private string $author;
